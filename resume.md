@@ -41,18 +41,25 @@ _Apr 2025 – Present_
 **University of Washington, Seattle**
 
 _Sep 2024 – Aug 2025_
+
 Master of Science in Information Management, iSchool
 Specialization: Program/Product Management & Consulting
 
-Relevant Coursework: 
+_Relevant Coursework:_
 Product & Project Management, Strategic BI, Data-Driven Problem Solving, Enterprise System Design, Leadership Seminar
 
 **National Taiwan University, Taipei, Taiwan**
-Master of Science in Toxicology (GPA 4.0)
+
 _Sep 2011 – June 2013_
 
-Bachelor of Clinical Laboratory Science and Medical Biotechnology (GPA 4.0)
+Master of Science in Toxicology (GPA 4.0)
+
+**National Taiwan University, Taipei, Taiwan**
+
 _Sep 2007 – June 2011_
+
+Bachelor of Clinical Laboratory Science and Medical Biotechnology (GPA 4.0)
+
 
 ## 🛠 Skills
 
@@ -82,7 +89,7 @@ Want to see my work?
 Feel free to connect or reach out!
 
 - ✉️ Email: iamjojoboo@gmail.com  
-- 🌐 Website: [jojoboo.dev](https://jojoboo.dev) *(or your domain)*  
+- 🌐 Website: [jojoboo.dev](https://jojoboo.dev)
 - 💼 LinkedIn: [linkedin.com/in/jojoboo](https://linkedin.com/in/jojoboo)
 
 ---
