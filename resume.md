@@ -39,6 +39,7 @@ _Apr 2025 – Present_
 
 ## 🎓 Education
 **University of Washington, Seattle**   _Sep 2024 – Aug 2025_
+
 Master of Science in Information Management, iSchool
 Specialization: Program/Product Management & Consulting
 
@@ -46,9 +47,11 @@ _Relevant Coursework:_
 Product & Project Management, Strategic BI, Data-Driven Problem Solving, Enterprise System Design, Leadership Seminar
 
 **National Taiwan University, Taipei, Taiwan**   _Sep 2011 – June 2013_
+
 Master of Science in Toxicology (GPA 4.0)
 
 **National Taiwan University, Taipei, Taiwan**   _Sep 2007 – June 2011_
+
 Bachelor of Clinical Laboratory Science and Medical Biotechnology (GPA 4.0)
 
 
