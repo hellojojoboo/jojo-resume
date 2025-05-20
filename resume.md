@@ -30,7 +30,7 @@ _Jul 2014 – Jun 2017_
 - Conducted data-driven market analysis and segmentation to identify new opportunities, contributing to product line expansion and increased revenue growth
 
 ## 🎯 Current Project
-**Product Manager (Volunteer),Tmind AI**  
+**Product Manager (Volunteer), Tmind AI**  
 _Apr 2025 – Present_  
 - Leading product strategy and roadmap development for an AI-powered mental health platform, focusing on therapist-client matching to improve access and personalization
 - Conducting user research and competitor analysis to define MVP scope and differentiate from market leaders through AI-driven therapist evaluation metrics
@@ -39,6 +39,7 @@ _Apr 2025 – Present_
 
 ## 🎓 Education
 **University of Washington, Seattle**
+
 _Sep 2024 – Aug 2025_
 Master of Science in Information Management, iSchool
 Specialization: Program/Product Management & Consulting
