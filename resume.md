@@ -25,7 +25,7 @@ _Jul 2017 – Aug 2020_
 - Strengthened Key Opinion Leaders (KOLs) partnerships and integrated customer feedback to refine product-market fit and improve retention
 
 **Product Specialist II, Unimed Healthcare Inc.**
-_ Jul 2014 – Jun 2017_ 
+_Jul 2014 – Jun 2017_
 - Managed the distribution and marketing of biotechnology and healthcare solutions at one of Taiwan’s largest distributors, driving product adoption through targeted technical demonstrations and sales team training
 - Conducted data-driven market analysis and segmentation to identify new opportunities, contributing to product line expansion and increased revenue growth
 
